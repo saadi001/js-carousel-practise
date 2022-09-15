@@ -23,4 +23,4 @@ setInterval( () =>{
      img.setAttribute('src', imageLink);
      imageIndex++;
 
-},1000);
+},3000);
